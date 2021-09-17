@@ -5,6 +5,8 @@ BUTTNS: c57f16
 
 TL: 362d61
 
+Heder: 1f1f20
+
 
 
 Template: COINEX - Crypto Currency HTML Template 
@@ -118,7 +120,7 @@ hr { margin: 0; padding: 0px; border-bottom: 1px solid #e0e0e0; border-top: 0px;
 
 
 .button { color: #fff; cursor: pointer; padding: 10px 30px; border: none; font-weight: 800; font-size: 16px; position: relative; background: #c57f16; font-family: 'Comfortaa', cursive; display: inline-block; -webkit-border-radius: 90px; -moz-border-radius: 90px; border-radius: 90px; }
-.button:hover, .button:focus { color: #964B00; background: #fff; outline: none; }
+.button:hover, .button:focus { color: #1f1f20; background: #fff; outline: none; }
 
 /* Buttons white */
 .button.bt-white { color: #333; background: #fff; }
@@ -501,8 +503,8 @@ header .navbar-light .navbar-nav .nav-link:hover, header .navbar-light .navbar-n
 header .navbar-light .navbar-nav .nav-link:hover:before, .navbar-light .navbar-nav .nav-link:focus:before, .navbar-light .navbar-nav .nav-item .nav-link.active:before { opacity: 1; }
 header .navbar-light .nav { position: relative; }
 header .navbar-light .nav:before { content: ""; position: absolute; top: 5px; left: 5px; height: 25px; width: 1px; display: inline-block; background: #c7c7c7; }
-header .navbar-light .nav .button:hover, header .navbar-light .nav .button:focus { color: #964B00; }
-header.menu-sticky { position: fixed; background: #964B00; padding: 10px 30px; box-shadow: 0px 0px 30px 0px rgba(255, 255, 255, 0.1); }
+header .navbar-light .nav .button:hover, header .navbar-light .nav .button:focus { color: #1f1f20; }
+header.menu-sticky { position: fixed; background: #1f1f20; padding: 10px 30px; box-shadow: 0px 0px 30px 0px rgba(255, 255, 255, 0.1); }
 .dropdown-item.active, .dropdown-item:active { background: #c57f16; }
 
 /*Login*/
@@ -524,7 +526,7 @@ header.menu-sticky { position: fixed; background: #964B00; padding: 10px 30px; b
 .iq-banner { position: relative; padding: 15% 0 6%; }
 .iq-banner:before { position: absolute; top: 0%; left: 0%; content: ""; width: 100%; z-index: 999; height: 100%; display: inline-block; background-image: url('../images/01.png'); }
 .banner-info { position: relative; z-index: 999; }
-.iq-banner .iq-countdown { background: #964B00; border-radius: 30px; padding: 40px 40px; position: relative; }
+.iq-banner .iq-countdown { background: #1f1f20; border-radius: 30px; padding: 40px 40px; position: relative; }
 .iq-banner .wave-poistion { position: absolute; top: 0; left: 0; z-index: 99; }
 .iq-banner .wave-poistion canvas { width: 100% !important; height: 100% !important; }
 .iq-countdown #countdown { list-style: none; margin: 40px 0; padding: 0; display: inline-block; width: 100%; }
@@ -596,7 +598,7 @@ header.menu-sticky { position: fixed; background: #964B00; padding: 10px 30px; b
 .iq-tranding-Platform .nav-tabs .nav-link:hover:before, .iq-tranding-Platform .nav-tabs .nav-link.active:before, .iq-tranding-Platform .nav-tabs .nav-item.show .nav-link { content: ""; bottom: 0; left: 0; display: inline-block; position: absolute; height: 2px; width: 100%; background: #c57f16; }
 .iq-tranding-Platform .nav-tabs .nav-link i { font-size: 42px; margin-bottom: 5px; }
 .iq-tranding-Platform .nav-tabs .nav-link span { display: block; font-size: 16px; }
-.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active, .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus { background: #964B00; border: none; color: #c57f16; }
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active, .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus { background: #1f1f20; border: none; color: #c57f16; }
 .iq-tranding-Platform .light-bg { -webkit-border-radius: 30px; -moz-border-radius: 30px; border-radius: 30px; }
 .iq-tranding-Platform .tab-content { padding: 15px; }
 .table-bordered td, .table-bordered th { border: 1px solid #292c34; }
@@ -945,7 +947,7 @@ Teams 3
 .contact-us .heading-title { margin-bottom: 0; }
 .contact-us .heading-title .title { padding-bottom: 5px; }
 .contact-us .map { display: inline-block; width: 100%; height: 100%; }
-.contact-us form { background: #964B00; padding: 30px; border-radius: 30px; }
+.contact-us form { background: #1f1f20; padding: 30px; border-radius: 30px; }
 .contact-form .section-field { position: relative; width: 100%; float: left; }
 .contact-form .section-field input { position: relative; width: 100%; margin-bottom: 20px; border-radius: 90px; padding-left: 20px; height: 48px; line-height: 48px; clear: both; color: #fff; border: 1px solid #202228; background: #202228; }
 .contact-form .section-field input:focus, .contact-form .section-field.textarea textarea:focus { border: 1px solid #c57f16; background: #c57f16; color: #fff; box-shadow: none; outline: none; }
@@ -1092,7 +1094,7 @@ Footer 2
 /*Copyright*/
 .iq-footer .iq-copyright a { color: #c57f16; }
 .iq-footer .iq-copyright a:hover { color: #ffffff; }
-.iq-footer .footer-bottom { background: #964B00; }
+.iq-footer .footer-bottom { background: #1f1f20; }
 
 /*Social Media*/
 .iq-footer .iq-media-blog { margin: 0; padding: 0; text-align: right; }
